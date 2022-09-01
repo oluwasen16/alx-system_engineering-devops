@@ -5,3 +5,4 @@ A script that changes the working directory
 Current directory contents in a long format
 Display current directory contents
 Display current directory contents
+my_first_directory
