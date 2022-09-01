@@ -7,3 +7,4 @@ Display current directory contents
 Display current directory contents
 my_first_directory
 Betty in my first directory
+Bye bye Betty
