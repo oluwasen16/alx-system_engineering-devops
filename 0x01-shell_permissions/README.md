@@ -9,3 +9,4 @@ adds execute permission
 Script that adds execution permission to the owner
 Script that adds execution permission to the owner
 Script that adds execution permission
+the mode of the file
