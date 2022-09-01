@@ -1,1 +1,1 @@
-My school readme
+script writing code
