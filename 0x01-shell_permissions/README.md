@@ -10,3 +10,4 @@ Script that adds execution permission to the owner
 Script that adds execution permission to the owner
 Script that adds execution permission
 the mode of the file
+Look in the mirror
