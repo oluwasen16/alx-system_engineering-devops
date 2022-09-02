@@ -16,3 +16,4 @@ More directories
 Change the group owner
 change the owner and group
 Group symbolic links
+only if it is owned by the user
