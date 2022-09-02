@@ -14,3 +14,4 @@ Look in the mirror
 adds execute permission to all subdirectories
 More directories
 Change the group owner
+change the owner and group
