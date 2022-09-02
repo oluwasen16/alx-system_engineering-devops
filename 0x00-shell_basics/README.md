@@ -25,3 +25,4 @@ Copy HTML files
 moves all files beginning
 deletes all files
 more files
+Life is a series of commas, not periods
