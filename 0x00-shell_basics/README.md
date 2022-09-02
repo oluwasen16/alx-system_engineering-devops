@@ -23,3 +23,4 @@ Inhabit_symbol
 _symbol
 Copy HTML files
 moves all files beginning
+deletes all files
